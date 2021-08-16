@@ -13,7 +13,7 @@
 - 🐱‍💻 Hoje trabalho como Suporte Técnico N1.
 - 👀 Estou interessado em crescer ...
 - 💞️ CEO - Plataforma digital “i9naRede & Rede Templates” ...
-- 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
+- 📫 Pode me contatar via e-mail: erickcoelho7@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
 Feito com ❤️ e JavaScript.
